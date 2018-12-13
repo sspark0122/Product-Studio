@@ -1,0 +1,12 @@
+{
+  "boxAppSettings": {
+    "clientID": "fyya003xfbxfiq4hhjlz1e8ac3xthvy4",
+    "clientSecret": "xG7XOQjhMkSUxoGhumvqmljdJGAHpH86",
+    "appAuth": {
+      "publicKeyID": "ejo23898",
+      "privateKey": "-----BEGIN ENCRYPTED PRIVATE KEY-----\nMIIFDjBABgkqhkiG9w0BBQ0wMzAbBgkqhkiG9w0BBQwwDgQIlLBe3mbNg6kCAggA\nMBQGCCqGSIb3DQMHBAjHzG/I5PkEcwSCBMgU0VkVY3MeZ7ZcrPUd5FO1YQZ7z02v\nffgJ/w3oVamCma+N8DzFkZ+0WSAP3AuI4fN8HmWpWFiRdWdOIws+odBlpSbVAAa0\nNEmD17baijtDnGxIqiaFtwQhEu0eSwOsxspKATGH6ikrrMhqPzZO8A6k4+KQkITK\nwnoS3RiOxC8R5JEx61ED5cs4Y192wqICoEVS/2zPx9+IZmaNcUgtEUb5NVU8wINW\nDQX3K6MF6AuetJyt5wgD/Fj9BdIGC/TG8d0AtcxxoStE6ojm4reMOKlcPIPyf9jX\n8y9kYjn0qF52RRCPxNtZoR/qobEjFw6nzurJsOrXc15rN9agwoXL2qOB1M4dTzg/\nlaFodRcAtf+BvubJdUareRWqg7PKKN1N8vNyqjbluSjcD/Hs1HuAtGy9sMLo5kX+\ndiEG+kusZIxWFOZhNzSZeV5qanuZj7pljeAWsss1dL1aHIw0XOeb/Mkj6Xl5HrnA\nFzHmEy9t1fzGPJePYSwQQEA2fADq1zedN1aZCt/ndzJJ3YQizVPwTVj9QlicRTc0\nvYoKx1R8lj7tgbhFPMH7lnG+e1SrMAY0ANY4+7D4bpqXH5Ho8zeu93Ow5ncTDXuF\n6+FGQdkTzA9foWC4aUwSS2BIow2Cu8RAlhXrfa2bYtRJIni2A9Ec4xkvJb8BYFZx\nTxuMdsgRCSY6ANkrHitSxRCN7ldriml8S7TzYx1rG4vlKvPfySsqfiAqEEPLXdmu\nMFlaDodqdIFiB45pJDj1CS/+5tG2F7QT7QckTqVEcK2cBo2Fw+JhBWZiSiSxk+gg\nWLHU4qp6e3juOWbriV1NtizShcNjFbQPjtF+KjPlcLw12o9BpcsWrlyPDekaUz6h\nXw4KcEoU2GNYlfd5IqMwhijEXR4wvPbTxf7jI+ZPc6HlH3B5vkJ2TJtSpJzfK5ye\nysfQNCwsBmg2oOdOxOIAB/MB4l1sMW43MOOopLA+GnQnkX0QcKw4PSbd403Hg/nq\nxvu6EF/s0eGvjupNZG/j4klMoTF5J+YkQrc3iuPmbziAx5pP9Rw5izyc6qJdi+kC\nJjwxj1rDXcMh6UFGTNVR8L3nEukRNhEfem2wE7XNDOex7hziz7/E+1qhaWVqxWye\n+sc12wK76BCr6xew/PVyj2bs4GY/idaMtEobJe/W0RAvU1HOscx0qbR0ve8c1gsZ\nsRihkQezXVFNPpDRHBtcWl10ieqL0/aTDvDqt7ulvxMRM7RirRa5xy5yAaQ26rGQ\nleBqt71q++FkrXPDbmc1CA7ymqZAnO9BN1ZQ8U4d6cKXcfMUFK1QkO/WYHSLdAHn\nB/XZeACkgjmqEEXy9WpDJuWon9AFg3Oo62FmLBiOlfskpJ/SVrNhKpg4Fg/lCCt3\nun5GZeL6ToRayZospss9XkWIAlV5BETfaoR+wVkh481jL/bol5Poo/E+SnnXUgbB\nZgfsigHkNga1GJ5ddxgq6qkRXM9I6NlcdA+YUg7O16bl/syKl7ACB+ZXhVudbuZ8\n/dXEH/Q6M4kR5wYPH5M4FCMH4bwqklfMvq79WU8/reVDp3F8VBDrqpqqrF1Grqvo\nbAAwCSS+vqaHece9uWfkiaIjFS2XVBmLSyESfq/VHaW6Eou4ULiu9g1tq0LmdIMC\nO80=\n-----END ENCRYPTED PRIVATE KEY-----\n",
+      "passphrase": "e0b8cc5f7f95a5ba34f95b3396bce4f9"
+    }
+  },
+  "enterpriseID": "121342178"
+}
